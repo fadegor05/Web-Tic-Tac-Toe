@@ -2,7 +2,7 @@
 
 It's a simple tic-tac-toe, which was based on <b>HTML</b>, <b>JS</b> and <b>CSS</b>. It's one by one game, so you need to play it in order.
 
-<b>You can try it out</b> <a href="https://htmlpreview.github.io/?https://github.com/fadegor05/Web-Tic-Tac-Toe/blob/main/index.html">here<a>
+<b>You can try it out</b> <a href="https://fadegor05.github.io/Web-Tic-Tac-Toe">here<a>
 
 <img src="./readmemd/preview.png">
 
